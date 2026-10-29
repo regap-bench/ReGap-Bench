@@ -1,0 +1,25 @@
+{
+    "sample_id": 54,
+    "question": "Rank the equilateral triangles from smallest to largest by their labels.",
+    "answer": [
+        3,
+        2,
+        1,
+        4
+    ],
+    "plain_image_path": "images_plain/54.png",
+    "shading_image_path": "images_shading/54.png",
+    "grid_image_path": "images_grid/54.png",
+    "info": {
+        "grid_dimensions": [
+            1,
+            5
+        ],
+        "scales": [
+            0.49,
+            0.42,
+            0.21,
+            0.84
+        ]
+    }
+}

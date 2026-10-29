@@ -1,0 +1,21 @@
+{
+    "sample_id": 189,
+    "question": "(O) is rotated 270 degrees clockwise around P, then rotated 90 degrees clockwise around P, then translated left. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/189.png",
+    "shading_image_path": "images_shading/189.png",
+    "grid_image_path": "images_grid/189.png",
+    "info": {
+        "transform_chain": [
+            "rotated 270 degrees clockwise around P",
+            "rotated 90 degrees clockwise around P",
+            "translated left"
+        ],
+        "options_details": {
+            "A": "Single Random Step Only (Step 1)",
+            "B": "Missing First Step",
+            "C": "Mutated First Step: Wrong rotation angle (315 degrees)",
+            "D": "Correct Sequence"
+        }
+    }
+}

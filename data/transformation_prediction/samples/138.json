@@ -1,0 +1,21 @@
+{
+    "sample_id": 138,
+    "question": "(O) is reflected across XY, then dilated 0.5x from P, then translated down. Which option shows the final result?",
+    "answer": "C",
+    "plain_image_path": "images_plain/138.png",
+    "shading_image_path": "images_shading/138.png",
+    "grid_image_path": "images_grid/138.png",
+    "info": {
+        "transform_chain": [
+            "reflected across XY",
+            "dilated 0.5x from P",
+            "translated down"
+        ],
+        "options_details": {
+            "A": "Missing First Step",
+            "B": "Missing Middle Step",
+            "C": "Correct Sequence",
+            "D": "Mutated Middle Step: Dilation inverse scale"
+        }
+    }
+}

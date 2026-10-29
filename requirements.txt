@@ -1,0 +1,8 @@
+Pillow>=10.1
+python-dotenv
+# OpenAI / Gemini
+openai
+google-genai
+# Qwen3.5 with vLLM (GPU)
+vllm
+transformers

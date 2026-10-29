@@ -1,0 +1,21 @@
+{
+    "sample_id": 194,
+    "question": "(O) is dilated 0.5x from P, then rotated 90 degrees clockwise around P, then dilated 2.0x from P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/194.png",
+    "shading_image_path": "images_shading/194.png",
+    "grid_image_path": "images_grid/194.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 90 degrees clockwise around P",
+            "dilated 2.0x from P"
+        ],
+        "options_details": {
+            "A": "Mutated First Step: Negative scale",
+            "B": "Missing Middle Step",
+            "C": "Mutated Last Step: Vertical stretch only",
+            "D": "Correct Sequence"
+        }
+    }
+}

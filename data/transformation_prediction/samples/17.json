@@ -1,0 +1,21 @@
+{
+    "sample_id": 17,
+    "question": "(O) is reflected across XY, then rotated 90 degrees clockwise around P, then rotated 180 degrees clockwise around P. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/17.png",
+    "shading_image_path": "images_shading/17.png",
+    "grid_image_path": "images_grid/17.png",
+    "info": {
+        "transform_chain": [
+            "reflected across XY",
+            "rotated 90 degrees clockwise around P",
+            "rotated 180 degrees clockwise around P"
+        ],
+        "options_details": {
+            "A": "Single Random Step Only (Step 2)",
+            "B": "Correct Sequence",
+            "C": "Missing First Step",
+            "D": "Reverse Order"
+        }
+    }
+}

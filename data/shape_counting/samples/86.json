@@ -1,0 +1,17 @@
+{
+    "sample_id": 86,
+    "question": "Count the number of equilateral triangles.",
+    "answer": 0,
+    "plain_image_path": "images_plain/86.png",
+    "numbering_image_path": "images_number/86.png",
+    "shading_image_path": "images_shading/86.png",
+    "grid_image_path": "images_grid/86.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            6
+        ],
+        "total_shape_count": 34,
+        "target_shape": []
+    }
+}

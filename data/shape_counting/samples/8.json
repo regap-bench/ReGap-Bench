@@ -1,0 +1,26 @@
+{
+    "sample_id": 8,
+    "question": "How many parallelograms are in the image?",
+    "answer": 8,
+    "plain_image_path": "images_plain/8.png",
+    "numbering_image_path": "images_number/8.png",
+    "shading_image_path": "images_shading/8.png",
+    "grid_image_path": "images_grid/8.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            6
+        ],
+        "total_shape_count": 28,
+        "target_shape": [
+            2,
+            3,
+            5,
+            11,
+            20,
+            21,
+            27,
+            28
+        ]
+    }
+}

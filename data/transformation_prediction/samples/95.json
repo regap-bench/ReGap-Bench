@@ -1,0 +1,21 @@
+{
+    "sample_id": 95,
+    "question": "(O) is rotated 180 degrees clockwise around P, then reflected across XY, then dilated 0.5x from P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/95.png",
+    "shading_image_path": "images_shading/95.png",
+    "grid_image_path": "images_grid/95.png",
+    "info": {
+        "transform_chain": [
+            "rotated 180 degrees clockwise around P",
+            "reflected across XY",
+            "dilated 0.5x from P"
+        ],
+        "options_details": {
+            "A": "Missing First Step",
+            "B": "Missing Last Step",
+            "C": "Mutated Middle Step: Reflection over wrong angle",
+            "D": "Correct Sequence"
+        }
+    }
+}

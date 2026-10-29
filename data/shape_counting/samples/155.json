@@ -1,0 +1,17 @@
+{
+    "sample_id": 155,
+    "question": "How many right angle triangles are there?",
+    "answer": 0,
+    "plain_image_path": "images_plain/155.png",
+    "numbering_image_path": "images_number/155.png",
+    "shading_image_path": "images_shading/155.png",
+    "grid_image_path": "images_grid/155.png",
+    "info": {
+        "grid_dimensions": [
+            7,
+            7
+        ],
+        "total_shape_count": 47,
+        "target_shape": []
+    }
+}

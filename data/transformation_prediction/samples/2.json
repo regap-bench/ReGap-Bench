@@ -1,0 +1,21 @@
+{
+    "sample_id": 2,
+    "question": "(O) is dilated 0.5x from P, then rotated 270 degrees clockwise around P, then translated up. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/2.png",
+    "shading_image_path": "images_shading/2.png",
+    "grid_image_path": "images_grid/2.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 270 degrees clockwise around P",
+            "translated up"
+        ],
+        "options_details": {
+            "A": "Missing First Step",
+            "B": "Random Single: reflected across XY",
+            "C": "Random Single: rotated 270 degrees clockwise around P",
+            "D": "Correct Sequence"
+        }
+    }
+}

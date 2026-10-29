@@ -1,0 +1,17 @@
+{
+    "sample_id": 50,
+    "question": "How many ellipses are in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/50.png",
+    "numbering_image_path": "images_number/50.png",
+    "shading_image_path": "images_shading/50.png",
+    "grid_image_path": "images_grid/50.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            7
+        ],
+        "total_shape_count": 27,
+        "target_shape": []
+    }
+}

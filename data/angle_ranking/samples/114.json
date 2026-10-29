@@ -1,0 +1,37 @@
+{
+    "sample_id": 114,
+    "question": "Rank the angles from largest to smallest by their labels.",
+    "answer": [
+        3,
+        1,
+        2,
+        10,
+        4,
+        7,
+        5,
+        9,
+        8,
+        6
+    ],
+    "plain_image_path": "images_plain/114.png",
+    "shading_image_path": "images_shading/114.png",
+    "grid_image_path": "images_grid/114.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            5
+        ],
+        "angles_present": [
+            313,
+            293,
+            338,
+            221,
+            126,
+            11,
+            164,
+            34,
+            117,
+            256
+        ]
+    }
+}

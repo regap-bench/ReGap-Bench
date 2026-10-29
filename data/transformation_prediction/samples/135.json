@@ -1,0 +1,21 @@
+{
+    "sample_id": 135,
+    "question": "(O) is rotated 270 degrees clockwise around P, then rotated 90 degrees anticlockwise around P, then rotated 180 degrees clockwise around P. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/135.png",
+    "shading_image_path": "images_shading/135.png",
+    "grid_image_path": "images_grid/135.png",
+    "info": {
+        "transform_chain": [
+            "rotated 270 degrees clockwise around P",
+            "rotated 90 degrees anticlockwise around P",
+            "rotated 180 degrees clockwise around P"
+        ],
+        "options_details": {
+            "A": "Mutated Middle Step: Wrong rotation angle (180 degrees)",
+            "B": "Correct Sequence",
+            "C": "Missing Last Step",
+            "D": "Missing Middle Step"
+        }
+    }
+}

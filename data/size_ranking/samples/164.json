@@ -1,0 +1,33 @@
+{
+    "sample_id": 164,
+    "question": "Rank the pentagons from smallest to largest by their labels.",
+    "answer": [
+        5,
+        4,
+        1,
+        6,
+        2,
+        3,
+        7,
+        8
+    ],
+    "plain_image_path": "images_plain/164.png",
+    "shading_image_path": "images_shading/164.png",
+    "grid_image_path": "images_grid/164.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            5
+        ],
+        "scales": [
+            0.31,
+            0.47,
+            0.56,
+            0.17,
+            0.1,
+            0.39,
+            0.71,
+            0.86
+        ]
+    }
+}

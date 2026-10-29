@@ -1,0 +1,32 @@
+{
+    "sample_id": 40,
+    "question": "What is the total number of trapeziums in the image?",
+    "answer": 14,
+    "plain_image_path": "images_plain/40.png",
+    "numbering_image_path": "images_number/40.png",
+    "shading_image_path": "images_shading/40.png",
+    "grid_image_path": "images_grid/40.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            7
+        ],
+        "total_shape_count": 20,
+        "target_shape": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+}

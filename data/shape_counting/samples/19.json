@@ -1,0 +1,19 @@
+{
+    "sample_id": 19,
+    "question": "How many squares are in the image?",
+    "answer": 1,
+    "plain_image_path": "images_plain/19.png",
+    "numbering_image_path": "images_number/19.png",
+    "shading_image_path": "images_shading/19.png",
+    "grid_image_path": "images_grid/19.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            4
+        ],
+        "total_shape_count": 12,
+        "target_shape": [
+            10
+        ]
+    }
+}

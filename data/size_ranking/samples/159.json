@@ -1,0 +1,35 @@
+{
+    "sample_id": 159,
+    "question": "Rank the parallelograms from smallest to largest by their labels.",
+    "answer": [
+        9,
+        6,
+        8,
+        1,
+        5,
+        3,
+        4,
+        2,
+        7
+    ],
+    "plain_image_path": "images_plain/159.png",
+    "shading_image_path": "images_shading/159.png",
+    "grid_image_path": "images_grid/159.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            7
+        ],
+        "scales": [
+            0.35,
+            0.73,
+            0.57,
+            0.63,
+            0.42,
+            0.22,
+            0.9,
+            0.29,
+            0.14
+        ]
+    }
+}

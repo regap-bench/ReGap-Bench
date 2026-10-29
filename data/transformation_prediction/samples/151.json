@@ -1,0 +1,21 @@
+{
+    "sample_id": 151,
+    "question": "(O) is dilated 0.5x from P, then rotated 180 degrees clockwise around P, then translated right. Which option shows the final result?",
+    "answer": "A",
+    "plain_image_path": "images_plain/151.png",
+    "shading_image_path": "images_shading/151.png",
+    "grid_image_path": "images_grid/151.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 180 degrees clockwise around P",
+            "translated right"
+        ],
+        "options_details": {
+            "A": "Correct Sequence",
+            "B": "Mutated First Step: Dilation inverse scale",
+            "C": "Single Random Step Only (Step 2)",
+            "D": "Mutated Last Step: Identity"
+        }
+    }
+}

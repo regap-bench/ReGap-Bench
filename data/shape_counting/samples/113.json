@@ -1,0 +1,23 @@
+{
+    "sample_id": 113,
+    "question": "How many isosceles triangles are there?",
+    "answer": 5,
+    "plain_image_path": "images_plain/113.png",
+    "numbering_image_path": "images_number/113.png",
+    "shading_image_path": "images_shading/113.png",
+    "grid_image_path": "images_grid/113.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            4
+        ],
+        "total_shape_count": 11,
+        "target_shape": [
+            1,
+            2,
+            4,
+            6,
+            8
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "sample_id": 48,
+    "question": "Rank the squares from smallest to largest by their labels.",
+    "answer": [
+        4,
+        3,
+        5,
+        1,
+        2
+    ],
+    "plain_image_path": "images_plain/48.png",
+    "shading_image_path": "images_shading/48.png",
+    "grid_image_path": "images_grid/48.png",
+    "info": {
+        "grid_dimensions": [
+            1,
+            7
+        ],
+        "scales": [
+            0.84,
+            0.89,
+            0.35,
+            0.25,
+            0.52
+        ]
+    }
+}

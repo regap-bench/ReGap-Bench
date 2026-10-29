@@ -1,0 +1,21 @@
+{
+    "sample_id": 131,
+    "question": "(O) is rotated 90 degrees clockwise around P, then dilated 0.5x from P, then rotated 90 degrees anticlockwise around P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/131.png",
+    "shading_image_path": "images_shading/131.png",
+    "grid_image_path": "images_grid/131.png",
+    "info": {
+        "transform_chain": [
+            "rotated 90 degrees clockwise around P",
+            "dilated 0.5x from P",
+            "rotated 90 degrees anticlockwise around P"
+        ],
+        "options_details": {
+            "A": "Mutated Last Step: Wrong rotation angle (225 degrees)",
+            "B": "Missing First Step",
+            "C": "Missing Last Step",
+            "D": "Correct Sequence"
+        }
+    }
+}

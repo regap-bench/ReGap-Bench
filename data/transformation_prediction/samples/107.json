@@ -1,0 +1,21 @@
+{
+    "sample_id": 107,
+    "question": "(O) is dilated 0.5x from P, then reflected across XY, then translated left. Which option shows the final result?",
+    "answer": "A",
+    "plain_image_path": "images_plain/107.png",
+    "shading_image_path": "images_shading/107.png",
+    "grid_image_path": "images_grid/107.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "reflected across XY",
+            "translated left"
+        ],
+        "options_details": {
+            "A": "Correct Sequence",
+            "B": "Missing Last Step",
+            "C": "Missing Middle Step",
+            "D": "Mutated First Step: Horizontal stretch only"
+        }
+    }
+}

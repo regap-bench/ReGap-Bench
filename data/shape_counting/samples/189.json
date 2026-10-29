@@ -1,0 +1,22 @@
+{
+    "sample_id": 189,
+    "question": "Count the number of right angle isosceles triangles.",
+    "answer": 4,
+    "plain_image_path": "images_plain/189.png",
+    "numbering_image_path": "images_number/189.png",
+    "shading_image_path": "images_shading/189.png",
+    "grid_image_path": "images_grid/189.png",
+    "info": {
+        "grid_dimensions": [
+            7,
+            4
+        ],
+        "total_shape_count": 19,
+        "target_shape": [
+            2,
+            13,
+            14,
+            19
+        ]
+    }
+}

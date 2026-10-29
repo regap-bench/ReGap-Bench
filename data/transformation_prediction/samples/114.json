@@ -1,0 +1,21 @@
+{
+    "sample_id": 114,
+    "question": "(O) is reflected across XY, then rotated 180 degrees clockwise around P, then translated up. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/114.png",
+    "shading_image_path": "images_shading/114.png",
+    "grid_image_path": "images_grid/114.png",
+    "info": {
+        "transform_chain": [
+            "reflected across XY",
+            "rotated 180 degrees clockwise around P",
+            "translated up"
+        ],
+        "options_details": {
+            "A": "Mutated Last Step: Translation right",
+            "B": "Correct Sequence",
+            "C": "Missing Middle Step",
+            "D": "Reverse Order"
+        }
+    }
+}

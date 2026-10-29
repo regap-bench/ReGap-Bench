@@ -1,0 +1,21 @@
+{
+    "sample_id": 100,
+    "question": "Count the number of isosceles triangles.",
+    "answer": 3,
+    "plain_image_path": "images_plain/100.png",
+    "numbering_image_path": "images_number/100.png",
+    "shading_image_path": "images_shading/100.png",
+    "grid_image_path": "images_grid/100.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            5
+        ],
+        "total_shape_count": 12,
+        "target_shape": [
+            3,
+            5,
+            9
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "sample_id": 142,
+    "question": "How many right angle isosceles triangles are in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/142.png",
+    "numbering_image_path": "images_number/142.png",
+    "shading_image_path": "images_shading/142.png",
+    "grid_image_path": "images_grid/142.png",
+    "info": {
+        "grid_dimensions": [
+            3,
+            7
+        ],
+        "total_shape_count": 17,
+        "target_shape": []
+    }
+}

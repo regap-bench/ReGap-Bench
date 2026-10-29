@@ -1,0 +1,21 @@
+{
+    "sample_id": 154,
+    "question": "(O) is rotated 180 degrees clockwise around P, then rotated 90 degrees anticlockwise around P, then translated down. Which option shows the final result?",
+    "answer": "C",
+    "plain_image_path": "images_plain/154.png",
+    "shading_image_path": "images_shading/154.png",
+    "grid_image_path": "images_grid/154.png",
+    "info": {
+        "transform_chain": [
+            "rotated 180 degrees clockwise around P",
+            "rotated 90 degrees anticlockwise around P",
+            "translated down"
+        ],
+        "options_details": {
+            "A": "Missing First Step",
+            "B": "Missing Middle Step",
+            "C": "Correct Sequence",
+            "D": "Reverse Order"
+        }
+    }
+}

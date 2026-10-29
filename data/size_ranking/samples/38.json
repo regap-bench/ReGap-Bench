@@ -1,0 +1,33 @@
+{
+    "sample_id": 38,
+    "question": "Rank the trapeziums from smallest to largest by their labels.",
+    "answer": [
+        7,
+        1,
+        6,
+        3,
+        5,
+        4,
+        8,
+        2
+    ],
+    "plain_image_path": "images_plain/38.png",
+    "shading_image_path": "images_shading/38.png",
+    "grid_image_path": "images_grid/38.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            7
+        ],
+        "scales": [
+            0.29,
+            0.94,
+            0.41,
+            0.77,
+            0.66,
+            0.34,
+            0.22,
+            0.87
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "sample_id": 3,
+    "question": "Count the number of rectangles.",
+    "answer": 5,
+    "plain_image_path": "images_plain/3.png",
+    "numbering_image_path": "images_number/3.png",
+    "shading_image_path": "images_shading/3.png",
+    "grid_image_path": "images_grid/3.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            6
+        ],
+        "total_shape_count": 26,
+        "target_shape": [
+            3,
+            9,
+            10,
+            19,
+            21
+        ]
+    }
+}

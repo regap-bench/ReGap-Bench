@@ -1,0 +1,22 @@
+{
+    "sample_id": 175,
+    "question": "How many pentagons are in the image?",
+    "answer": 4,
+    "plain_image_path": "images_plain/175.png",
+    "numbering_image_path": "images_number/175.png",
+    "shading_image_path": "images_shading/175.png",
+    "grid_image_path": "images_grid/175.png",
+    "info": {
+        "grid_dimensions": [
+            3,
+            7
+        ],
+        "total_shape_count": 21,
+        "target_shape": [
+            1,
+            15,
+            16,
+            19
+        ]
+    }
+}

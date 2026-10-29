@@ -1,0 +1,17 @@
+{
+    "sample_id": 121,
+    "question": "How many rectangles are there?",
+    "answer": 0,
+    "plain_image_path": "images_plain/121.png",
+    "numbering_image_path": "images_number/121.png",
+    "shading_image_path": "images_shading/121.png",
+    "grid_image_path": "images_grid/121.png",
+    "info": {
+        "grid_dimensions": [
+            3,
+            5
+        ],
+        "total_shape_count": 13,
+        "target_shape": []
+    }
+}

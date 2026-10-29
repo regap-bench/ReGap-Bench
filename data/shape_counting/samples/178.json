@@ -1,0 +1,17 @@
+{
+    "sample_id": 178,
+    "question": "How many squares are there?",
+    "answer": 0,
+    "plain_image_path": "images_plain/178.png",
+    "numbering_image_path": "images_number/178.png",
+    "shading_image_path": "images_shading/178.png",
+    "grid_image_path": "images_grid/178.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            6
+        ],
+        "total_shape_count": 18,
+        "target_shape": []
+    }
+}

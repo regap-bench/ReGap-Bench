@@ -1,0 +1,21 @@
+{
+    "sample_id": 166,
+    "question": "(O) is rotated 180 degrees clockwise around P, then dilated 0.5x from P, then translated down. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/166.png",
+    "shading_image_path": "images_shading/166.png",
+    "grid_image_path": "images_grid/166.png",
+    "info": {
+        "transform_chain": [
+            "rotated 180 degrees clockwise around P",
+            "dilated 0.5x from P",
+            "translated down"
+        ],
+        "options_details": {
+            "A": "Missing Middle Step",
+            "B": "Mutated Middle Step: Dilation from shape center",
+            "C": "Reverse Order",
+            "D": "Correct Sequence"
+        }
+    }
+}

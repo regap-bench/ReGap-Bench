@@ -1,0 +1,20 @@
+{
+    "sample_id": 61,
+    "question": "How many circles are there?",
+    "answer": 2,
+    "plain_image_path": "images_plain/61.png",
+    "numbering_image_path": "images_number/61.png",
+    "shading_image_path": "images_shading/61.png",
+    "grid_image_path": "images_grid/61.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            3
+        ],
+        "total_shape_count": 9,
+        "target_shape": [
+            2,
+            8
+        ]
+    }
+}

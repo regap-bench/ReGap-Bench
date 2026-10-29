@@ -1,0 +1,21 @@
+{
+    "sample_id": 31,
+    "question": "(O) is dilated 0.5x from P, then rotated 90 degrees anticlockwise around P, then translated left. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/31.png",
+    "shading_image_path": "images_shading/31.png",
+    "grid_image_path": "images_grid/31.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 90 degrees anticlockwise around P",
+            "translated left"
+        ],
+        "options_details": {
+            "A": "Missing Last Step",
+            "B": "Correct Sequence",
+            "C": "Mutated Middle Step: Wrong rotation angle (180 degrees)",
+            "D": "Mutated Last Step: Translation right"
+        }
+    }
+}

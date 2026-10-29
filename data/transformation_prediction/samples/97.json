@@ -1,0 +1,21 @@
+{
+    "sample_id": 97,
+    "question": "(O) is dilated 2.0x from P, then dilated 0.5x from P, then dilated 0.5x from P. Which option shows the final result?",
+    "answer": "A",
+    "plain_image_path": "images_plain/97.png",
+    "shading_image_path": "images_shading/97.png",
+    "grid_image_path": "images_grid/97.png",
+    "info": {
+        "transform_chain": [
+            "dilated 2.0x from P",
+            "dilated 0.5x from P",
+            "dilated 0.5x from P"
+        ],
+        "options_details": {
+            "A": "Correct Sequence",
+            "B": "Missing Middle Step",
+            "C": "Mutated First Step: Negative scale",
+            "D": "Mutated Last Step: Dilation inverse scale"
+        }
+    }
+}

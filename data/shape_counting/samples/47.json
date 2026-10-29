@@ -1,0 +1,21 @@
+{
+    "sample_id": 47,
+    "question": "Identify and count the number of circles.",
+    "answer": 3,
+    "plain_image_path": "images_plain/47.png",
+    "numbering_image_path": "images_number/47.png",
+    "shading_image_path": "images_shading/47.png",
+    "grid_image_path": "images_grid/47.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            6
+        ],
+        "total_shape_count": 14,
+        "target_shape": [
+            8,
+            11,
+            12
+        ]
+    }
+}

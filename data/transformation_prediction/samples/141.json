@@ -1,0 +1,21 @@
+{
+    "sample_id": 141,
+    "question": "(O) is rotated 90 degrees anticlockwise around P, then reflected across XY, then translated left. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/141.png",
+    "shading_image_path": "images_shading/141.png",
+    "grid_image_path": "images_grid/141.png",
+    "info": {
+        "transform_chain": [
+            "rotated 90 degrees anticlockwise around P",
+            "reflected across XY",
+            "translated left"
+        ],
+        "options_details": {
+            "A": "Single Random Step Only (Step 2)",
+            "B": "Correct Sequence",
+            "C": "Reverse Order",
+            "D": "Missing First Step"
+        }
+    }
+}

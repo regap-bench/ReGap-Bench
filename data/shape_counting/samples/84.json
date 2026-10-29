@@ -1,0 +1,20 @@
+{
+    "sample_id": 84,
+    "question": "How many pentagons are there?",
+    "answer": 2,
+    "plain_image_path": "images_plain/84.png",
+    "numbering_image_path": "images_number/84.png",
+    "shading_image_path": "images_shading/84.png",
+    "grid_image_path": "images_grid/84.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            4
+        ],
+        "total_shape_count": 20,
+        "target_shape": [
+            4,
+            18
+        ]
+    }
+}

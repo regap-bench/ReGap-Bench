@@ -1,0 +1,30 @@
+{
+    "sample_id": 9,
+    "question": "Identify and count the number of pentagons.",
+    "answer": 12,
+    "plain_image_path": "images_plain/9.png",
+    "numbering_image_path": "images_number/9.png",
+    "shading_image_path": "images_shading/9.png",
+    "grid_image_path": "images_grid/9.png",
+    "info": {
+        "grid_dimensions": [
+            7,
+            6
+        ],
+        "total_shape_count": 31,
+        "target_shape": [
+            2,
+            3,
+            4,
+            13,
+            17,
+            20,
+            23,
+            24,
+            26,
+            27,
+            30,
+            31
+        ]
+    }
+}

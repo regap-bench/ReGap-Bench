@@ -1,0 +1,28 @@
+{
+    "sample_id": 143,
+    "question": "Count the number of right angle triangles.",
+    "answer": 10,
+    "plain_image_path": "images_plain/143.png",
+    "numbering_image_path": "images_number/143.png",
+    "shading_image_path": "images_shading/143.png",
+    "grid_image_path": "images_grid/143.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            7
+        ],
+        "total_shape_count": 19,
+        "target_shape": [
+            3,
+            4,
+            5,
+            6,
+            8,
+            13,
+            14,
+            15,
+            18,
+            19
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "sample_id": 62,
+    "question": "Identify and count the number of rectangles.",
+    "answer": 0,
+    "plain_image_path": "images_plain/62.png",
+    "numbering_image_path": "images_number/62.png",
+    "shading_image_path": "images_shading/62.png",
+    "grid_image_path": "images_grid/62.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            4
+        ],
+        "total_shape_count": 10,
+        "target_shape": []
+    }
+}

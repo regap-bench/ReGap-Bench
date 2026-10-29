@@ -1,0 +1,17 @@
+{
+    "sample_id": 125,
+    "question": "Count the number of parallelograms.",
+    "answer": 0,
+    "plain_image_path": "images_plain/125.png",
+    "numbering_image_path": "images_number/125.png",
+    "shading_image_path": "images_shading/125.png",
+    "grid_image_path": "images_grid/125.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            6
+        ],
+        "total_shape_count": 28,
+        "target_shape": []
+    }
+}

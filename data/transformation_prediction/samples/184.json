@@ -1,0 +1,21 @@
+{
+    "sample_id": 184,
+    "question": "(O) is reflected across XY, then dilated 0.5x from P, then dilated 0.5x from P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/184.png",
+    "shading_image_path": "images_shading/184.png",
+    "grid_image_path": "images_grid/184.png",
+    "info": {
+        "transform_chain": [
+            "reflected across XY",
+            "dilated 0.5x from P",
+            "dilated 0.5x from P"
+        ],
+        "options_details": {
+            "A": "Random Single: dilated 2.0x from P",
+            "B": "Random Single: rotated 90 degrees clockwise around P",
+            "C": "Single Random Step Only (Step 1)",
+            "D": "Correct Sequence"
+        }
+    }
+}

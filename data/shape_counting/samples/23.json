@@ -1,0 +1,28 @@
+{
+    "sample_id": 23,
+    "question": "How many trapeziums are there?",
+    "answer": 10,
+    "plain_image_path": "images_plain/23.png",
+    "numbering_image_path": "images_number/23.png",
+    "shading_image_path": "images_shading/23.png",
+    "grid_image_path": "images_grid/23.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            6
+        ],
+        "total_shape_count": 23,
+        "target_shape": [
+            2,
+            6,
+            9,
+            11,
+            14,
+            18,
+            19,
+            20,
+            21,
+            23
+        ]
+    }
+}

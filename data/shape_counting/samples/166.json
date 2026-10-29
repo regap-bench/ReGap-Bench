@@ -1,0 +1,17 @@
+{
+    "sample_id": 166,
+    "question": "What is the total number of rectangles in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/166.png",
+    "numbering_image_path": "images_number/166.png",
+    "shading_image_path": "images_shading/166.png",
+    "grid_image_path": "images_grid/166.png",
+    "info": {
+        "grid_dimensions": [
+            7,
+            7
+        ],
+        "total_shape_count": 33,
+        "target_shape": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "sample_id": 26,
+    "question": "(O) is dilated 2.0x from P, then dilated 0.5x from P, then rotated 180 degrees clockwise around P. Which option shows the final result?",
+    "answer": "A",
+    "plain_image_path": "images_plain/26.png",
+    "shading_image_path": "images_shading/26.png",
+    "grid_image_path": "images_grid/26.png",
+    "info": {
+        "transform_chain": [
+            "dilated 2.0x from P",
+            "dilated 0.5x from P",
+            "rotated 180 degrees clockwise around P"
+        ],
+        "options_details": {
+            "A": "Correct Sequence",
+            "B": "Missing Middle Step",
+            "C": "Missing First Step",
+            "D": "Mutated Middle Step: Negative scale"
+        }
+    }
+}

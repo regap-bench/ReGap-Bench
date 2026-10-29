@@ -1,0 +1,17 @@
+{
+    "sample_id": 77,
+    "question": "Count the number of squares.",
+    "answer": 0,
+    "plain_image_path": "images_plain/77.png",
+    "numbering_image_path": "images_number/77.png",
+    "shading_image_path": "images_shading/77.png",
+    "grid_image_path": "images_grid/77.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            4
+        ],
+        "total_shape_count": 19,
+        "target_shape": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "sample_id": 85,
+    "question": "(O) is dilated 0.5x from P, then rotated 270 degrees clockwise around P, then dilated 2.0x from P. Which option shows the final result?",
+    "answer": "A",
+    "plain_image_path": "images_plain/85.png",
+    "shading_image_path": "images_shading/85.png",
+    "grid_image_path": "images_grid/85.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 270 degrees clockwise around P",
+            "dilated 2.0x from P"
+        ],
+        "options_details": {
+            "A": "Correct Sequence",
+            "B": "Single Random Step Only (Step 3)",
+            "C": "Mutated First Step: Dilation from shape center",
+            "D": "Missing Middle Step"
+        }
+    }
+}

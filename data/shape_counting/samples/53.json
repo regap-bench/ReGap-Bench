@@ -1,0 +1,20 @@
+{
+    "sample_id": 53,
+    "question": "Count the number of ellipses.",
+    "answer": 2,
+    "plain_image_path": "images_plain/53.png",
+    "numbering_image_path": "images_number/53.png",
+    "shading_image_path": "images_shading/53.png",
+    "grid_image_path": "images_grid/53.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            3
+        ],
+        "total_shape_count": 9,
+        "target_shape": [
+            2,
+            3
+        ]
+    }
+}

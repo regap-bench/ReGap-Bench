@@ -1,0 +1,21 @@
+{
+    "sample_id": 169,
+    "question": "(O) is reflected across XY, then rotated 270 degrees clockwise around P, then translated left. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/169.png",
+    "shading_image_path": "images_shading/169.png",
+    "grid_image_path": "images_grid/169.png",
+    "info": {
+        "transform_chain": [
+            "reflected across XY",
+            "rotated 270 degrees clockwise around P",
+            "translated left"
+        ],
+        "options_details": {
+            "A": "Mutated Middle Step: Identity",
+            "B": "Single Random Step Only (Step 2)",
+            "C": "Reverse Order",
+            "D": "Correct Sequence"
+        }
+    }
+}

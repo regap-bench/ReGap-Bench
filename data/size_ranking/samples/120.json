@@ -1,0 +1,27 @@
+{
+    "sample_id": 120,
+    "question": "Rank the circles from largest to smallest by their labels.",
+    "answer": [
+        1,
+        3,
+        4,
+        5,
+        2
+    ],
+    "plain_image_path": "images_plain/120.png",
+    "shading_image_path": "images_shading/120.png",
+    "grid_image_path": "images_grid/120.png",
+    "info": {
+        "grid_dimensions": [
+            1,
+            6
+        ],
+        "scales": [
+            0.77,
+            0.16,
+            0.68,
+            0.49,
+            0.32
+        ]
+    }
+}

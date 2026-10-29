@@ -1,0 +1,21 @@
+{
+    "sample_id": 102,
+    "question": "(O) is rotated 90 degrees clockwise around P, then rotated 270 degrees clockwise around P, then reflected across XY. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/102.png",
+    "shading_image_path": "images_shading/102.png",
+    "grid_image_path": "images_grid/102.png",
+    "info": {
+        "transform_chain": [
+            "rotated 90 degrees clockwise around P",
+            "rotated 270 degrees clockwise around P",
+            "reflected across XY"
+        ],
+        "options_details": {
+            "A": "Mutated First Step: Wrong rotation angle (135 degrees)",
+            "B": "Correct Sequence",
+            "C": "Missing First Step",
+            "D": "Missing Middle Step"
+        }
+    }
+}

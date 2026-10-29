@@ -1,0 +1,21 @@
+{
+    "sample_id": 127,
+    "question": "(O) is dilated 0.5x from P, then reflected across XY, then rotated 270 degrees clockwise around P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/127.png",
+    "shading_image_path": "images_shading/127.png",
+    "grid_image_path": "images_grid/127.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "reflected across XY",
+            "rotated 270 degrees clockwise around P"
+        ],
+        "options_details": {
+            "A": "Mutated First Step: Negative scale",
+            "B": "Mutated Last Step: Wrong rotation direction",
+            "C": "Missing Last Step",
+            "D": "Correct Sequence"
+        }
+    }
+}

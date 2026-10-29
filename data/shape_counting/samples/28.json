@@ -1,0 +1,17 @@
+{
+    "sample_id": 28,
+    "question": "What is the total number of right angle triangles in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/28.png",
+    "numbering_image_path": "images_number/28.png",
+    "shading_image_path": "images_shading/28.png",
+    "grid_image_path": "images_grid/28.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            5
+        ],
+        "total_shape_count": 15,
+        "target_shape": []
+    }
+}

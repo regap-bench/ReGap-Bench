@@ -1,0 +1,21 @@
+{
+    "sample_id": 16,
+    "question": "(O) is dilated 0.5x from P, then rotated 90 degrees anticlockwise around P, then reflected across XY. Which option shows the final result?",
+    "answer": "B",
+    "plain_image_path": "images_plain/16.png",
+    "shading_image_path": "images_shading/16.png",
+    "grid_image_path": "images_grid/16.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "rotated 90 degrees anticlockwise around P",
+            "reflected across XY"
+        ],
+        "options_details": {
+            "A": "Single Random Step Only (Step 2)",
+            "B": "Correct Sequence",
+            "C": "Random Single: translated up",
+            "D": "Missing First Step"
+        }
+    }
+}

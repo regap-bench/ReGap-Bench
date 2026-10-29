@@ -1,0 +1,17 @@
+{
+    "sample_id": 42,
+    "question": "What is the total number of pentagons in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/42.png",
+    "numbering_image_path": "images_number/42.png",
+    "shading_image_path": "images_shading/42.png",
+    "grid_image_path": "images_grid/42.png",
+    "info": {
+        "grid_dimensions": [
+            6,
+            7
+        ],
+        "total_shape_count": 32,
+        "target_shape": []
+    }
+}

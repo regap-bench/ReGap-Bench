@@ -1,0 +1,21 @@
+{
+    "sample_id": 42,
+    "question": "(O) is dilated 0.5x from P, then dilated 2.0x from P, then translated up. Which option shows the final result?",
+    "answer": "C",
+    "plain_image_path": "images_plain/42.png",
+    "shading_image_path": "images_shading/42.png",
+    "grid_image_path": "images_grid/42.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "dilated 2.0x from P",
+            "translated up"
+        ],
+        "options_details": {
+            "A": "Mutated First Step: Vertical stretch only",
+            "B": "Missing Last Step",
+            "C": "Correct Sequence",
+            "D": "Mutated Middle Step: Negative scale"
+        }
+    }
+}

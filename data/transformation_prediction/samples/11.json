@@ -1,0 +1,21 @@
+{
+    "sample_id": 11,
+    "question": "(O) is dilated 0.5x from P, then dilated 0.5x from P, then dilated 0.5x from P. Which option shows the final result?",
+    "answer": "D",
+    "plain_image_path": "images_plain/11.png",
+    "shading_image_path": "images_shading/11.png",
+    "grid_image_path": "images_grid/11.png",
+    "info": {
+        "transform_chain": [
+            "dilated 0.5x from P",
+            "dilated 0.5x from P",
+            "dilated 0.5x from P"
+        ],
+        "options_details": {
+            "A": "Random Single: rotated 90 degrees anticlockwise around P",
+            "B": "Random Single: translated left",
+            "C": "Random Single: reflected across XY",
+            "D": "Correct Sequence"
+        }
+    }
+}

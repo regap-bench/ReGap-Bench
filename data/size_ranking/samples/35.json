@@ -1,0 +1,35 @@
+{
+    "sample_id": 35,
+    "question": "Rank the right isosceles triangles from largest to smallest by their labels.",
+    "answer": [
+        9,
+        8,
+        2,
+        4,
+        6,
+        1,
+        5,
+        3,
+        7
+    ],
+    "plain_image_path": "images_plain/35.png",
+    "shading_image_path": "images_shading/35.png",
+    "grid_image_path": "images_grid/35.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            6
+        ],
+        "scales": [
+            0.38,
+            0.58,
+            0.24,
+            0.52,
+            0.33,
+            0.44,
+            0.15,
+            0.71,
+            0.84
+        ]
+    }
+}

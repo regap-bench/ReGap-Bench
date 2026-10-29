@@ -1,0 +1,42 @@
+{
+    "sample_id": 78,
+    "question": "Rank the clocks from latest to earliest by their labels.",
+    "answer": [
+        3,
+        8,
+        2,
+        12,
+        1,
+        7,
+        10,
+        11,
+        4,
+        5,
+        6,
+        9
+    ],
+    "plain_image_path": "images_plain/78.png",
+    "numbering_image_path": "images_number/78.png",
+    "shading_image_path": "images_shading/78.png",
+    "grid_image_path": "images_grid/78.png",
+    "info": {
+        "grid_dimensions": [
+            3,
+            4
+        ],
+        "times_present": [
+            "12:38 PM",
+            "2:42 PM",
+            "6:29 PM",
+            "7:41 AM",
+            "7:04 AM",
+            "6:40 AM",
+            "11:45 AM",
+            "3:02 PM",
+            "4:51 AM",
+            "10:22 AM",
+            "9:09 AM",
+            "12:50 PM"
+        ]
+    }
+}

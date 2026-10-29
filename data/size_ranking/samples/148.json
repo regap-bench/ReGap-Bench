@@ -1,0 +1,33 @@
+{
+    "sample_id": 148,
+    "question": "Rank the ellipses from smallest to largest by their labels.",
+    "answer": [
+        1,
+        5,
+        7,
+        4,
+        3,
+        6,
+        8,
+        2
+    ],
+    "plain_image_path": "images_plain/148.png",
+    "shading_image_path": "images_shading/148.png",
+    "grid_image_path": "images_grid/148.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            6
+        ],
+        "scales": [
+            0.14,
+            0.94,
+            0.58,
+            0.38,
+            0.24,
+            0.72,
+            0.3,
+            0.81
+        ]
+    }
+}

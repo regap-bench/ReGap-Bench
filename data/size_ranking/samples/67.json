@@ -1,0 +1,37 @@
+{
+    "sample_id": 67,
+    "question": "Rank the rectangles from largest to smallest by their labels.",
+    "answer": [
+        8,
+        1,
+        5,
+        3,
+        2,
+        7,
+        10,
+        6,
+        4,
+        9
+    ],
+    "plain_image_path": "images_plain/67.png",
+    "shading_image_path": "images_shading/67.png",
+    "grid_image_path": "images_grid/67.png",
+    "info": {
+        "grid_dimensions": [
+            3,
+            6
+        ],
+        "scales": [
+            0.74,
+            0.48,
+            0.56,
+            0.15,
+            0.67,
+            0.26,
+            0.41,
+            0.79,
+            0.1,
+            0.34
+        ]
+    }
+}

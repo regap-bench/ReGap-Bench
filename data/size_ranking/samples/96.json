@@ -1,0 +1,31 @@
+{
+    "sample_id": 96,
+    "question": "Rank the right triangles from largest to smallest by their labels.",
+    "answer": [
+        1,
+        7,
+        3,
+        6,
+        5,
+        4,
+        2
+    ],
+    "plain_image_path": "images_plain/96.png",
+    "shading_image_path": "images_shading/96.png",
+    "grid_image_path": "images_grid/96.png",
+    "info": {
+        "grid_dimensions": [
+            2,
+            6
+        ],
+        "scales": [
+            0.91,
+            0.22,
+            0.72,
+            0.48,
+            0.53,
+            0.64,
+            0.86
+        ]
+    }
+}

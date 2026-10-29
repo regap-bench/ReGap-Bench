@@ -1,0 +1,17 @@
+{
+    "sample_id": 117,
+    "question": "How many equilateral triangles are in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/117.png",
+    "numbering_image_path": "images_number/117.png",
+    "shading_image_path": "images_shading/117.png",
+    "grid_image_path": "images_grid/117.png",
+    "info": {
+        "grid_dimensions": [
+            7,
+            7
+        ],
+        "total_shape_count": 41,
+        "target_shape": []
+    }
+}

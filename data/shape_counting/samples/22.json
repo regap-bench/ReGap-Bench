@@ -1,0 +1,21 @@
+{
+    "sample_id": 22,
+    "question": "How many isosceles triangles are in the image?",
+    "answer": 3,
+    "plain_image_path": "images_plain/22.png",
+    "numbering_image_path": "images_number/22.png",
+    "shading_image_path": "images_shading/22.png",
+    "grid_image_path": "images_grid/22.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            5
+        ],
+        "total_shape_count": 13,
+        "target_shape": [
+            3,
+            11,
+            12
+        ]
+    }
+}

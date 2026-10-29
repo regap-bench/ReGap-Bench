@@ -1,0 +1,29 @@
+{
+    "sample_id": 29,
+    "question": "Count the number of trapeziums.",
+    "answer": 11,
+    "plain_image_path": "images_plain/29.png",
+    "numbering_image_path": "images_number/29.png",
+    "shading_image_path": "images_shading/29.png",
+    "grid_image_path": "images_grid/29.png",
+    "info": {
+        "grid_dimensions": [
+            4,
+            5
+        ],
+        "total_shape_count": 16,
+        "target_shape": [
+            2,
+            3,
+            4,
+            6,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            16
+        ]
+    }
+}

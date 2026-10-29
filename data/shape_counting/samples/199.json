@@ -1,0 +1,17 @@
+{
+    "sample_id": 199,
+    "question": "What is the total number of squares in the image?",
+    "answer": 0,
+    "plain_image_path": "images_plain/199.png",
+    "numbering_image_path": "images_number/199.png",
+    "shading_image_path": "images_shading/199.png",
+    "grid_image_path": "images_grid/199.png",
+    "info": {
+        "grid_dimensions": [
+            5,
+            3
+        ],
+        "total_shape_count": 11,
+        "target_shape": []
+    }
+}
